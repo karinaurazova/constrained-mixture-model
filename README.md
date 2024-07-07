@@ -97,7 +97,8 @@ In script `CMM_strech_increases_linearly.ipynb` the following system of equation
 \end{equation}
 ```
 As a result of executing the script, "stress-time" graphs are displayed, however, you can upgrade the script and output any dependencies for the specified functions.
-![strech_increases_linearly](https://drive.google.com/uc?id=1aHdDiN7VW6J3sWlN_qVVtX7whx-ceLpB)
+
+![strech_increases_linearly](https://drive.google.com/uc?id=12Rnh0vtg1jCc0qRE4PQQ1GiGIHVwiSv_)
 ***
 You can upgrade the squeaks and compare different deformation protocols on the same graph.
 ### CMM with mechanical feedback and the deformation protocols are the same as in CMM 
@@ -222,6 +223,7 @@ As a result, by analogy with the CMM, I obtain such systems of equations:
 *** 
 In this script, all the deformation protocols I am interested in are implemented at once and graphs of all three are displayed at once, however, you can upgrade the script and output only the information that interests you.
 
+![mechanical_feedback](https://drive.google.com/uc?id=1-aHKGuP-ZxZlbG7DfAkOXBufJYmEWZV2)
 
 ## Contributing
 
