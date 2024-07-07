@@ -54,6 +54,8 @@ In script `CMM_strech_constant.ipynb` the following system of equations is imple
 \end{align}
 ```
 As a result of executing the script, "stress-time" graphs are displayed, however, you can upgrade the script and output any dependencies for the specified functions.
+![strech_const]([https://picsum.photos/800/600](https://drive.google.com/file/d/1aHdDiN7VW6J3sWlN_qVVtX7whx-ceLpB/view?usp=drive_link))
+
 ### Strech cicle
 In script `CMM_strech_cicle.ipynb` the following system of equations is implemented:
 ```math
