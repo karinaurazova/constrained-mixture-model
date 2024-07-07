@@ -1,6 +1,6 @@
 # Constrained Mixture Model (CMM) & Constrained Mixture Model with Mechanical Feedback for stress analysis in various soft tissue deformation protocols
 
-In this repository, you will find Python scripts for implementing constrained mixture model for soft tissue with different deformation protocols. The scripts are based on mathematical model of constrained mixture model and constrained mixture model with mechanical feedback.
+In this repository you will find Python scripts for implementing constrained mixture model for soft tissue with different deformation protocols. The scripts are based on mathematical model of constrained mixture model and constrained mixture model with mechanical feedback.
 
 ## Installation
 
@@ -16,7 +16,7 @@ pip install matplotlib
 
 ## Usage
 
-1. Clone the repository to your local machine:
+1. Copy the repository to your local machine:
 
 ```
 git clone https://github.com/karinaurazova/constrained-mixture-model.git
@@ -33,7 +33,7 @@ git clone https://github.com/karinaurazova/constrained-mixture-model.git
 
 ## Theory
 These mathematical models are used to analyze the stress state of tendons and ligaments, but you can upgrade them for any soft tissue, not just unidirectional collagen fibers.
-When writing the model scripts, I relied on the scientific works of Larry Taber  "Continuum Modeling in Mechanobiology" https://link.springer.com/book/10.1007/978-3-030-43209-6
+Writing the model scripts, I relied on the scientific works of Larry Taber  "Continuum Modeling in Mechanobiology" https://link.springer.com/book/10.1007/978-3-030-43209-6
 
 
 ### Strech constant
